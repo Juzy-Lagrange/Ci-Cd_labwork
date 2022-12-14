@@ -1,3 +1,0 @@
-D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/CMakeFiles/Ci_Cd_labwork.dir
-D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
