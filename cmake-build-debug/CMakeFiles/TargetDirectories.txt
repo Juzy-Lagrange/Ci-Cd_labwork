@@ -1,3 +1,6 @@
 D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/CMakeFiles/CICD.dir
 D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/lib/CMakeFiles/Calc.dir
+D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+D:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir

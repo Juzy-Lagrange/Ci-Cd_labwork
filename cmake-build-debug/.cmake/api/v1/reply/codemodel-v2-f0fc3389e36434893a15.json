@@ -6,6 +6,10 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
@@ -17,6 +21,21 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-e9069484d90298468a11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						1
+					]
 				}
 			],
 			"name" : "Debug",
@@ -25,12 +44,14 @@
 				{
 					"directoryIndexes" : 
 					[
-						0
+						0,
+						1
 					],
 					"name" : "CICD",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -39,8 +60,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CICD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CICD-Debug-b6a418565ad36f3a7e33.json",
+					"jsonFile" : "target-CICD-Debug-a78b1a9972422a9ba30e.json",
 					"name" : "CICD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Calc::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-Calc-Debug-06b073697643558dc85b.json",
+					"name" : "Calc",
 					"projectIndex" : 0
 				}
 			]

@@ -144,6 +144,9 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "G:/CLion 2021.3.4/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "lib/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
