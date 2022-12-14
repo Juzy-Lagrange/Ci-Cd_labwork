@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Studying/C++/Ci-Cd_labwork/cmake-build-debug/
 
 build cmake_object_order_depends_target_CICD: phony || cmake_object_order_depends_target_Calc
 
-build CMakeFiles/CICD.dir/main.cpp.obj: CXX_COMPILER__CICD_Debug D$:/Studying/C++/Ci-Cd_labwork/main.cpp || cmake_object_order_depends_target_CICD
-  DEP_FILE = CMakeFiles\CICD.dir\main.cpp.obj.d
+build CMakeFiles/CICD.dir/test.cpp.obj: CXX_COMPILER__CICD_Debug D$:/Studying/C++/Ci-Cd_labwork/test.cpp || cmake_object_order_depends_target_CICD
+  DEP_FILE = CMakeFiles\CICD.dir\test.cpp.obj.d
   FLAGS = -g -std=gnu++17
   INCLUDES = -ID:/Studying/C++/Ci-Cd_labwork
   OBJECT_DIR = CMakeFiles\CICD.dir
@@ -64,7 +64,7 @@ build CMakeFiles/CICD.dir/main.cpp.obj: CXX_COMPILER__CICD_Debug D$:/Studying/C+
 #############################################
 # Link the executable CICD.exe
 
-build CICD.exe: CXX_EXECUTABLE_LINKER__CICD_Debug CMakeFiles/CICD.dir/main.cpp.obj | lib/libCalc.a || lib/libCalc.a
+build CICD.exe: CXX_EXECUTABLE_LINKER__CICD_Debug CMakeFiles/CICD.dir/test.cpp.obj | lib/libCalc.a || lib/libCalc.a
   FLAGS = -g
   LINK_LIBRARIES = lib/libCalc.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CICD.dir
