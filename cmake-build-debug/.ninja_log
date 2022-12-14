@@ -1,0 +1,4 @@
+# ninja log v5
+0	119	6927594706759342	build.ninja	619a6756ac1b59b4
+0	243	6927594709610192	CMakeFiles/Ci_Cd_labwork.dir/main.cpp.obj	179894fa0970c4c2
+244	366	6927594710809232	Ci_Cd_labwork.exe	1bbbc07b407d5dab
